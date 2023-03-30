@@ -19,95 +19,95 @@ db.once('open', async () => {
         {
             name: 'URI Throw Blanket',
             description: 'URI blanked for bed party decorating',
-            image: '',
+            image: 'blanket.PNG',
             category: categories[0]._id,
             price: 50.00,
             quantity: 10
         },
         {
             name: 'Clemson Throw Blanket',
-            description: '',
-            image: '',
+            description: 'clemson blanket for bed',
+            image: 'blanket.PNG',
             category: categories[0]._id,
             price: 51.00,
             quantity: 11
         },
         {
-            name: '',
-            description: '',
-            image: '',
+            name: 'BAMA Throw Blanket',
+            description: 'Bama blanket for bed',
+            image: 'blanket.PNG',
             category: categories[0]._id,
             price: 52.00,
             quantity: 11
         },
         {
             name: 'Pillow',
-            description: '',
-            image: '',
+            description: 'bama pillow for bed',
+            image: 'pillow.PNG',
             category: categories[1]._id,
             price: 29.00,
             quantity: 14
         },
         {
-            name: '',
-            description: '',
-            image: '',
+            name: 'Pillow 2',
+            description: 'pillow 2',
+            image: 'pillow.PNG',
             category: categories[1]._id,
             price: 30.00,
             quantity: 15
         },
         {
-            name: '',
-            description: '',
-            image: '',
+            name: 'Pillow 3',
+            description: 'pillow 3',
+            image: 'pillow.PNG',
             category: categories[1]._id,
             price: 31.00,
             quantity: 16
         },
         {
             name: 'jacket',
-            description: '',
-            image: '',
+            description: 'jacket 1',
+            image: 'jacket.PNG',
             category: categories[2]._id,
             price: 42.00,
             quantity: 20
         },
         {
-            name: '',
-            description: '',
-            image: '',
+            name: 'jacket 2',
+            description: 'jacket 2 description',
+            image: 'jacket.PNG',
             category: categories[2]._id,
             price: 43.00,
             quantity: 21
         },
         {
-            name: '',
-            description: '',
-            image: '',
+            name: 'jacket3',
+            description: 'jacket 3 descpriton',
+            image: 'jacket.PNG',
             category: categories[2]._id,
             price: 44.00,
             quantity: 22
         },
         {
             name: 'candle',
-            description: '',
-            image: '',
+            description: 'candle 1 descritpion',
+            image: 'candle.PNG',
             category: categories[3]._id,
             price: 12.00,
             quantity: 06
         },
         {
-            name: '',
-            description: '',
-            image: '',
+            name: 'CANDLE 2',
+            description: 'candle 2 description',
+            image: 'candle.PNG',
             category: categories[3]._id,
             price: 13.00,
             quantity: 07
         },
         {
-            name: '',
-            description: '',
-            image: '',
+            name: 'CANDLE 3',
+            description: 'candle 3 descripton',
+            image: 'candle.PNG',
             category: categories[3]._id,
             price: 14.00,
             quantity: 08
